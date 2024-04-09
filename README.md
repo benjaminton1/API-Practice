@@ -7,4 +7,4 @@ Thank you for taking the time to visit my quick coding project! In this reposito
 4) And finally, display all that data in a comprehensible format on an HTML webpage.
 
 
-![API Practice Image](API-practice/apipractice/api-practice-img.png)
+![API Practice Image](apipractice/api-practice-img.png)
